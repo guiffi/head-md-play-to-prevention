@@ -66,3 +66,63 @@ Here's my processing document for the PLAY TO PREVENTION course!
 - Let a strong beginning open possibilities rather than making every step serve a fixed ending.
 
 ## 19.10 - DESIGN RESEARCH
+
+## 09.11 - STORYTELLING FEEDBACK
+**Clarify the narrative arc**
+- Draw a diagram showing the backstory, key events and development of the relationship.
+- Establish the starting point: Hannah helps Mark set up his Twitch channel.
+- Show how an initially supportive relationship develops into a harmful situation.
+  
+**Connect the story to future gameplay idea**
+- Define what players actually do: perform Hannah’s actions, observe Mark’s reactions, interact with the stream or participate in the chat.
+- Clarify the player’s goal and the mechanics supporting it.
+ - The compelling experience should come from interacting with the story, not only reading it.
+- Explore how players can understand both Mark and Hannah without excusing harmful behaviour.
+
+**Define the intended learning experience**
+- Decide whether the game aims to help players recognise cyberbullying, understand its consequences or practise responding to it.
+- Clarify the audience and what you want them to take away.
+- Consider how access to accounts, passwords and personal content can allow a situation to escalate.
+
+**Explore family relationships and privacy**
+- Examine “sharenting”: parents sharing content about their children online.
+- Consider whether the game could encourage young people to discuss consent, privacy and requests to remove content with their parents.
+- Explore how sibling relationships and family responses affect the situation.
+  
+**Offer different ways to respond**
+- Give players several possible responses rather than a single correct solution.
+- Explore hesitation: doing nothing, fearing becoming the next target or worrying about being seen as “dramatic”.
+- From Hannah’s perspective, show how someone might recognise that their actions have caused harm and seek help to change the situation.
+  
+**Include support and resilience**
+- Show how supportive relationships with family, school staff or a psychologist could help Mark.
+- Consider a backstory in which Mark’s family has helped him develop confidence.
+- Parents can acknowledge their own difficulties and mistakes rather than appear perfect.
+- Avoid presenting Mark as powerless: give him opportunities to make choices and access support, without making him responsible for stopping the bullying.
+  
+**Make the central message clear**
+- Decide what message the game should communicate.
+- Explore how actions presented as affectionate, funny or well-intentioned can still cause harm.
+- Use recognisable everyday situations rather than relying only on extreme incidents.
+
+**Make the escalation believable**
+- One possible scenario is a parent posting a childhood photograph affectionately, followed by Hannah resharing it in a humiliating context.
+ -Show how Hannah may not initially anticipate the consequences.
+- Make the distinction between intention and impact visible.
+  
+**Strengthen the role of bystanders**
+- Consider positioning the player as a witness rather than as the person carrying out the harassment.
+- Show how laughing, reacting or resharing can contribute to humiliation.
+- Distinguish between refusing to amplify harmful content and actively supporting the person targeted.
+- Include situations where intervention helps prevent further harm.
+
+**Examples Discussed**
+- Parents sharing videos of their children online with positive intentions, but creating unintended consequences for their privacy and sibling relationships.
+- A cyberbullying account involving a girl targeted by her best friend. After the friend left school, the targeted girl was blamed for her departure and continued to face reputational harm.
+
+**Questions Discussed**
+- How can the player’s actions reveal the changing relationship between Mark and Hannah?
+- What should players understand or feel able to do differently after playing?
+- How can the game help witnesses recognise their influence and choose supportive actions?
+
+
